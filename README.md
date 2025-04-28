@@ -8,6 +8,7 @@ This project implements a simple yet powerful **AI agent** that processes any in
 
 The agent is built using **LangGraph**, **LangChain**, and **OpenAI's GPT models**.
 
+Ref: https://medium.com/data-science-collective/the-complete-guide-to-building-your-first-ai-agent-its-easier-than-you-think-c87f376c84b2
 ---
 
 ## 🚀 Features
